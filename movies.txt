@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Matrix leiðinleg
 Aboslutely fabulous allar seríur bestu grínþættir ev
+=======
+The Matrix
+
+>>>>>>> 73fd17bbefcc0f58de5cc35450f24bb9bed06728
