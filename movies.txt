@@ -8,3 +8,11 @@ Eminem and metallica live jam
 =======
 The Matrix
 
+<<<<<<< HEAD
+=======
+Star Wars 
+Rocky Horror Picture Show 
+Hobbit
+=======
+
+
